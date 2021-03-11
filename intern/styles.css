@@ -1,0 +1,46 @@
+body
+{
+	background-color: skyblue;
+	position: relative;
+}
+.div1
+{
+	background-color:purple;
+	width: 350px;
+	margin: 30px;
+	padding: 20px;
+	position:absolute;
+	top:50%;
+	left:40%;
+	transform: translate(-30%,20%);
+
+
+}
+input,button
+{
+	margin:15px;
+	width:80%;
+}
+button
+{
+	background-color: yellowgreen;
+	border:0;
+	font-weight: bold;
+	height:30px;
+}
+.adiv
+{
+	color:black;
+	text-align: center;
+}
+h2
+{
+	text-align: center;
+	margin:10px;
+}
+#view
+{
+	background-color:yellowgreen;
+	height:500px;
+	width: 400px; 
+}
